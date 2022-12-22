@@ -27,6 +27,16 @@ const LoginSection = styled.section`
 
   @media only screen and (max-width: 600px) {
     padding: 6rem;
+
+    .icon {
+        height: 7rem;
+        width: 6rem;
+        left: 4rem;
+    }
+
+    .button {
+      left: 6rem;
+    }
   }
 `;
 
