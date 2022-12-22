@@ -66,7 +66,7 @@ const Wrapper = styled.section`
     padding-bottom: 15rem;
     .mobileres {
       position: relative;
-      right: 30.5rem;
+      right: 33rem;
     }
 
     .heading {
@@ -81,12 +81,12 @@ const Wrapper = styled.section`
 
     .verify {
       position: absolute;
-      left: 5.7rem;
+      left: 3rem;
       right: 0;
     }
 
     .verifyButton {
-      margin-left: 6rem;
+      margin-left: 6.5rem;
     }
   }
 `;
